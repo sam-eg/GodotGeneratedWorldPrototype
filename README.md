@@ -3,3 +3,4 @@ Steps to get this running:
 2. Open godot and hit import, select the folder that this is in
 
 Currently working: procedural world generation including a background of dirt and sky. Arrow keys pans around.
+All the heavy lifting is in layer_holder.gd
